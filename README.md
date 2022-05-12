@@ -16,4 +16,5 @@
 
 ### Steps to download our game:
 1. Clone this repository
-2. Open
+2. Open BoomPercussion.exe
+3. Enjoy!
